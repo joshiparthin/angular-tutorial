@@ -1,0 +1,12 @@
+{
+  "name": "angular-clientside",
+  "version": "1.0.0",
+  "description": "Tutorial to get started with the Angular JS Front end Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower install"
+  },
+  "author": "Parth Joshi",
+  "license": "ISC"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "angular-clientside",
+  "description": "Tutorial to get started with the Angular JS Front end Development",
+  "main": "index.js",
+  "authors": [
+    "Parth Joshi"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0"
+  },
+  "license": "ISC",
+  "homepage": "hello-world.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
